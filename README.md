@@ -1,5 +1,5 @@
-# A New Approach to HMC Preplacement
+# A New Approach to HMC Preplacement for CS Electives
 
-Details of the model can be found in the PDF titled "Details of the Model".
+Details of the model can be found in the PDF titled "Final Report".
 
-The .ipynb files that start with "main" have code that implement the model.
+main.ipynb has the code that implements the model. The file can be run in Jupyter Notebooks (with Julia).
